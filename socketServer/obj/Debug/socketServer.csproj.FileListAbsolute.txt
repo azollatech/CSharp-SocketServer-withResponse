@@ -1,0 +1,7 @@
+C:\Users\cheng\source\repos\socketServer\socketServer\bin\Debug\socketServer.exe.config
+C:\Users\cheng\source\repos\socketServer\socketServer\bin\Debug\socketServer.exe
+C:\Users\cheng\source\repos\socketServer\socketServer\bin\Debug\socketServer.pdb
+C:\Users\cheng\source\repos\socketServer\socketServer\obj\Debug\socketServer.csprojResolveAssemblyReference.cache
+C:\Users\cheng\source\repos\socketServer\socketServer\obj\Debug\socketServer.csproj.CoreCompileInputs.cache
+C:\Users\cheng\source\repos\socketServer\socketServer\obj\Debug\socketServer.exe
+C:\Users\cheng\source\repos\socketServer\socketServer\obj\Debug\socketServer.pdb
